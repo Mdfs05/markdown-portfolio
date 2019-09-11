@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*So, this is itallic. This word is bold > **BOLD**. Finally, this word is underlined > _UNDERLINED_*
